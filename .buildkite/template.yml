@@ -3,4 +3,4 @@ description: "An example pipeline for launching a rocket that shows how Buildkit
 emoji: ":rocket:"
 steps:
   - command: "buildkite-agent pipeline upload"
-    label: ":pipeline:"
+    label: ":pipeline:?"
